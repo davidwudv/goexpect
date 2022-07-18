@@ -3,7 +3,7 @@
 #
 common: &common
   # This conforms to Go workspace requirements (we are pre-modules).
-  working_directory: /go/src/github.com/google/goexpect
+  working_directory: /go/src/github.com/davidwudv/goexpect
   steps:
     - checkout
     - run:

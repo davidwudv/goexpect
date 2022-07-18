@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	expect "github.com/google/goexpect"
+	expect "github.com/davidwudv/goexpect"
 
 	"github.com/golang/glog"
 	"github.com/google/goterm/term"
